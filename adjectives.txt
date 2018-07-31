@@ -16,6 +16,7 @@ Bound
 Bronze
 Buffered
 Captured
+Centralized
 Classic
 Compact
 Compatible
@@ -26,6 +27,7 @@ Conventional
 Cryptographic
 Cute
 Cyber
+Decentralized
 Decimal
 Decompiled
 Decompressed
@@ -36,6 +38,7 @@ Digital
 Direct
 Dirty
 Disassembled
+Disruptive
 Distinguished
 Dozenal
 Elegant
@@ -50,6 +53,7 @@ Exploited
 Explosive
 Extended
 Extreme
+Federated
 Flash
 Floppy
 Foreground
@@ -62,9 +66,9 @@ Graphical
 Hard
 Helical
 Hexadecimal
+Higher
 HighLevel
 HighSpeed
-Higher
 Industrious
 Infinite
 Inflated
@@ -76,8 +80,8 @@ Kilo
 Legacy
 Licensed
 LiquidCooled
-LowLevel
 Lower
+LowLevel
 Magical
 Mapped
 Mechanical
@@ -95,12 +99,14 @@ Paged
 Parallel
 Parity
 Platinum
+Premium
 Primary
 Private
 Privileged
 Progressive
 Prompt
 Protected
+Quantum
 Quick
 RandomAccess
 Real
