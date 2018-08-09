@@ -1,6 +1,7 @@
 Adapter
 AGP
 Algorithm
+Allocator
 Amiga
 Apparatus
 Array
@@ -23,6 +24,7 @@ Client
 Coin
 Collection
 Command
+Compiler
 Connection
 Cookie
 Core
@@ -62,8 +64,10 @@ Hypervisor
 Instruction
 Interface
 Interrupt
+IDE
 IRQ
 ISA
+JIT
 Job
 Jorts
 Kernel
@@ -82,10 +86,12 @@ Modem
 Module
 Monitor
 Monster
+Multiplexer
 Network
 Node
 Noun
 Numeral
+OS
 Paradigm
 PCI
 Peripheral
@@ -94,6 +100,7 @@ Plant
 Platform
 Pointer
 Port
+Preprocessor
 Procedure
 Process
 Program
@@ -106,8 +113,10 @@ Request
 Rights
 Ring
 SPARCstation
+SQL
 Sandbox
 Scanline
+Scheduler
 Screen
 Script
 Server
@@ -131,6 +140,8 @@ Transistor
 TSR
 USB
 Utility
+VAX
 Vector
 Window
 Wire
+Z80

@@ -1,3 +1,4 @@
+Accelerated
 Accidental
 Adjective
 Advanced
@@ -40,6 +41,7 @@ Dirty
 Disassembled
 Disruptive
 Distinguished
+Distributed
 Dozenal
 Elegant
 Encrypted
@@ -47,6 +49,7 @@ Ender
 Enhanced
 Escaped
 Euclidean
+EventDriven
 Expanded
 Expansive
 Exploited
@@ -59,6 +62,7 @@ Floppy
 Foreground
 Formatted
 Fragmented
+Functional
 Garbage
 Giga
 Gold
@@ -89,9 +93,11 @@ Mega
 Modular
 Neat
 Nonlinear
+Nonblocking
 Noodle
 Null
 Obfuscated
+ObjectOriented
 Obsolete
 Obvious
 Overclocked
