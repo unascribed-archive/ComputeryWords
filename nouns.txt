@@ -28,7 +28,7 @@ Compiler
 Connection
 Cookie
 Core
-CD-ROM
+CDROM
 CPU
 Daemon
 Data
